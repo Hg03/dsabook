@@ -1,4 +1,4 @@
-# Contain Duplicates
+# Contains Duplicate
 
 **First solve it by your own** [Visit the problem](https://leetcode.com/problems/contains-duplicate)
 
@@ -67,3 +67,5 @@ public:
     }
 };
 ```
+
+[Github](https://github.com/Hg03/)
