@@ -9,8 +9,8 @@
 **Steps -**
 > - We'll use answer 2d vector to store each answers and temp vector to store at an instance of time.
 > - If target is equal to 0. we've found a combination sum.
-> - If target is lesser than 0, means we are more ahead in the elements of an array, we should backward to either leave or take element.
-> - Here we are traversing the array with i, so if i react to end of size, we'll return.
+> - If target is lesser than 0, means we are more ahead in the elements of an array, we should go backward to either leave or take element.
+> - Here we are traversing the array with i, so if i reach to end of size, we'll return.
 > - First take the element by pushing it in temp vector, then leave the element by popping same element from temp vector.
 
 
