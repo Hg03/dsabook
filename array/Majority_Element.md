@@ -62,10 +62,13 @@ public:
 
 ## Moore's Voting algorithm
 
-""
+"This algorithm works on the fact that if an element occurs more than N/2 times, it means that the remaining elements other than this would definitely be less than N/2. So let us check the proceeding of the algorithm."
+
 
 **Steps -**
-> - 
+> - Select a candidate (any value) and initialize vote variable which counts the frequency.
+> - While iterate, if number is equal to the candidate, increment the vote else decrement the vote.
+> - If vote is equals to 0, change the candidate.
 
 ```cpp
 // Time Complexity - O(n)         Space Complexity - O(1)
@@ -85,3 +88,4 @@ public:
     }
 };
 ```
+[Github](https://github.com/Hg03)
