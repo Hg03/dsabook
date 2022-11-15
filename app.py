@@ -2,6 +2,7 @@ import streamlit as st
 from pathlib import Path
 from streamlit_option_menu import option_menu
 
+st.set_page_config(layout="wide")
 hide_st_style = """
             <style>
             #MainMenu {visibility: hidden;}
