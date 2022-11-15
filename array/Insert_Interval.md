@@ -1,6 +1,6 @@
 # Insert Interval
 
-**First solve it by our own** [Visit the problem](https://leetcode.com/problems/insert-intervals/)
+**First solve it by our own** [Visit the problem](https://leetcode.com/problems/insert-interval/)
 
 ## Approach
 
